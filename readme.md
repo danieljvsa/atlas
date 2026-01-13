@@ -181,13 +181,3 @@ atlas/
 
 MIT License
 
-```
-
----
-
-This README will give a **developer a complete first-run experience** — installation, configuration, credentials, API YAML, and interactive CLI use.  
-
-I can also **create a `git init` script** that sets up the repo with this README and initial folder structure if you want — making the repository ready to push immediately.  
-
-Do you want me to do that next?
-```
